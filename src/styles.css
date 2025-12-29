@@ -1,0 +1,17 @@
+.carousel-wrapper {
+    max-width: 1500px;      /* medium width */
+    margin: 40px auto;     /* center horizontally */
+}
+.carousel-wrapper img {
+    height: 400px;         /* medium height */
+    object-fit: cover;    /* keep image ratio */
+    border-radius: 10px;  /* optional */
+}/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: whitesmoke;
+}
+.carousel-container {
+    max-width: 1000px;    /* medium width */
+    margin: 20px auto;   /* center horizontally */
+}
